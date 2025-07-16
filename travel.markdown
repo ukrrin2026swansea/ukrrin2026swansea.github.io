@@ -18,7 +18,7 @@ description: The UKRRIN Student Led Conference in Computer Science at Swansea Un
 <ul>
     <li><a class="urllink" href="https://www.canva.com/design/DAFtqYpoxEI/YEnyMCakoO10VYmseSP8uw/view?utm_content=DAFtqYpoxEI&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="nofollow">Places to visit in Swansea</a></li>
     <li><a class="urllink" href="https://www.visitswanseabay.com/destinations/gower-peninsula/" rel="nofollow">Gower Peninsula, Area of Outstanding Beauty</a></li>
-    <li><a class="urllink" href="https://mattwalkwild.com/how-to-hike-the-gower-peninsula-coast-path/" rel="nofollow">Gower Coast Path</a>. Full length takes for normal hikers 3 - 4 days. Ultra-Marathon runners can do it one day - <a class="urllink" href="https://www.runwalkcrawl.co.uk/gower-coastal-trail-races-2022" rel="nofollow">link to event</a>. If you want to walk one segment - the closer to Rhossili the better it becomes, but all parts are very beautiful. The last segment will most likely become the excursion, so choose earlier segments.</li>
+    <li><a class="urllink" href="https://mattwalkwild.com/how-to-hike-the-gower-peninsula-coast-path/" rel="nofollow">Gower Coast Path</a></li>
 </ul>
 
 
