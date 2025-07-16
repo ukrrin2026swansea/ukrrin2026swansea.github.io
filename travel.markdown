@@ -8,6 +8,8 @@ description: The UKRRIN Student Led Conference in Computer Science at Swansea Un
 <p>The event will take place at <a class="urllink" href="https://www.swansea.ac.uk/computational-foundry/" rel="nofollow">The Computational Foundry</a>, 
 <a class="urllink" href="https://www.swansea.ac.uk/the-university/location/" rel="nofollow">Swansea University Bay Campus</a>, Swansea, United Kingdom. The conference programme will start on 1th September, 9am.</p>
 
+<img src="map-banner.png" alt="Swansea University Bay Campus location.">
+
 <p>Please note that there are two main campuses of Swansea University, and the workshop will be held at the new <strong>Bay Campus</strong> which is to the east of Swansea.</p>
 
 <p>Address: Department of Computer Science, The Computational Foundry, Swansea University Bay Campus, Fabian Way, Swansea, SA1 8EN</p>
