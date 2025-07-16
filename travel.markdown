@@ -31,7 +31,7 @@ description: The UKRRIN Student Led Conference in Computer Science at Swansea Un
 
 <h4>Maps</h4>
 <ul>
-    <li>Google map Bay Campus <a class="urllink" href="https://www.swansea.ac.uk/the-university/location/" rel="nofollow">Google Map Bay Campus</a></li>
+    <li><a class="urllink" href="https://www.swansea.ac.uk/the-university/location/" rel="nofollow">Google Map Bay Campus</a></li>
     <li><a class="urllink" href="https://tinyurl.com/7ysuu6kd" rel="nofollow">Google map search Heathrow Terminal 2&amp;3 to Bay Campus by public transport</a></li>
     <li><a class="urllink" href="https://www.swansea.ac.uk/media/BayCampusMap.pdf" rel="nofollow">Bay Campus Map (pdf)</a>.</li>
 </ul>
