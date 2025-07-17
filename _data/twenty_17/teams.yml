@@ -1,4 +1,3 @@
-conference_chairs:
 - title: Harry Bryant
   name: Harry Bryant
   subtitle: Co-Chair, Swansea University
@@ -6,7 +5,7 @@ conference_chairs:
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: harry.bryant@swansea.ac.uk
 
 - title: Alec Critten
   name: Alec Critten
@@ -17,7 +16,6 @@ conference_chairs:
   topic: Topic
   description: More Info
 
-organising_commitee:
 - title: Marek Jezinski
   name: Marek Jezinski
   subtitle: Organising Committee, Swansea University
@@ -27,7 +25,6 @@ organising_commitee:
   topic: Topic
   description: More Info
 
-programme_committee:
 - title: TBD
   name: TBD
   subtitle: University of Derby
