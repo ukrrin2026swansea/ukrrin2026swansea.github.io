@@ -18,6 +18,7 @@ description: The UKRRIN Student Led Conference at Swansea University focuses on 
 <style>
   h3 {
     color: #242f60;
+    font-weight: bold;
   }
 </style>
 
