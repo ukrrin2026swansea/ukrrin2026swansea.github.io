@@ -4,9 +4,10 @@
 
 layout: page
 title: Home
-description: The UKRRIN Student Led Conference in Computer Science at Swansea University focuses on innovative solutions in railway technology, featuring keynote speakers, networking opportunities, and discussions on data analytics and smart transportation systems. Join us to explore the future of the train industry and enhance your skills.
+description: The UKRRIN Student Led Conference at Swansea University focuses on innovative solutions in railway technology, featuring keynote speakers, networking opportunities, and discussions on data analytics and smart transportation systems. Join us to explore the future of the train industry and enhance your skills.
 ---
 
+<<<<<<< HEAD
 
 <!-- Hide the default title with CSS -->
 <style>
@@ -20,8 +21,41 @@ description: The UKRRIN Student Led Conference in Computer Science at Swansea Un
 
 
 <p>The UKRRIN Student Led Conference in Computer Science focuses on the intersection of technology and the train industry. This event, taking place in early January 2026 at Swansea University Bay Campus, aims to bring together students, researchers, and industry professionals to discuss innovative solutions and advancements in railway technology. The conference will feature keynote speakers from leading organisations and networking opportunities, fostering collaboration and knowledge sharing among participants.</p>
+=======
+<p>The UKRRIN Student Led Conference is the premier annual event for PhD students in the UK conducting research with applications in the railway industry. This conference will bring together members of the academic community and industry professionals to discuss innovative solutions and help shape the future of the railway. The conference will feature keynote speakers from leading organizations and networking opportunities, fostering collaboration and knowledge sharing among participants.</p>
+>>>>>>> 44131eadc9eb3943e4ad8df2c157ed7e99740eb9
 
 <p>Participants will have the chance to explore various topics, including data analytics, machine learning applications in train operations, and the future of smart transportation systems. The conference encourages students to present their research and projects, providing a platform for emerging ideas that could shape the future of the rail industry.</p>
+
+<h3>Conference Themes</h3>
+Our edition of this conference will be aligned with the Rail Technical Strategy (https://railtechnicalstrategy.co.uk/), particularly with the themes we will highlight:
+
+- **Easy to use for all**
+  - Customer experience
+  - Accessibility
+  - Applied economics for the railway
+
+- **Freight friendly**
+  - Freight infrastructure
+  - Freight operations
+  - Freight sustainability
+  - Access to freight
+
+- **Low emissions**
+  - Sustainability of the railway
+  - Electrification and decarbonisation
+  - Energy management
+
+- **Optimised train operations**
+  - Improving the infrastructure
+  - Planning/timetabling/improving capacity
+  - Improving incident recovery
+  - Maximising lower use lines
+
+- **Efficient and reliable assets**
+  - Accelerating railway development while minimising risks (testing and verification)
+  - Railway resilience and security of the railway
+  - Safe and efficient maintenance 
 
 <h3>Keynote Speakers</h3>
 <ul>
@@ -34,6 +68,3 @@ description: The UKRRIN Student Led Conference in Computer Science at Swansea Un
     <li>Attendees will have the chance to connect with peers and professionals, fostering relationships that can lead to future collaborations.</li>
     <li>Career development sessions will provide guidance on entering the train industry and leveraging computer science skills.</li>
 </ul>
-
-<h3>Conclusion</h3>
-<p>The UKRRIN Student Led Conference is an essential event for anyone interested in the convergence of computer science and the train industry. By participating, attendees will gain valuable insights, enhance their skills, and contribute to the ongoing evolution of railway technology.</p>
