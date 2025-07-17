@@ -30,7 +30,7 @@ description: The UKRRIN Student Led Conference at Swansea University focuses on 
 <p>Participants will have the chance to explore various topics, including data analytics, machine learning applications in train operations, and the future of smart transportation systems. The conference encourages students to present their research and projects, providing a platform for emerging ideas that could shape the future of the rail industry.</p>
 
 <h3>Conference Themes</h3>
-Our edition of this conference will be aligned with the <li><a class="urllink" href="https://railtechnicalstrategy.co.uk/" rel="nofollow">Rail Technical Strategy</a></li>, particularly with the themes we will highlight:
+Our edition of this conference will be aligned with the <a class="urllink" href="https://railtechnicalstrategy.co.uk/" rel="nofollow">Rail Technical Strategy</a>, particularly with the themes we will highlight:
 
 - **<span style="color: #242f60;">Easy to use for all</span>**
   - Customer experience
