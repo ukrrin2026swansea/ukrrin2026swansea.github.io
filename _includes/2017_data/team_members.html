@@ -22,7 +22,14 @@
                         <h4>{{ team.title }}</h4>
                         <p class="text-muted">{{ team.subtitle }}</p>
                         <p class="text-muted">{{ team.affiliation }}</p>
-                        <p class="text-muted">{{ team.email }}</p>
+                        <div class="team-social">
+                            {% if team.email %}
+                            <a href="{{ team.email }}" title="Email"><i class="fa fa-envelope"></i></a>
+                            {% endif %}
+                            {% if team.linkedIn %}
+                            <a href="{{ team.linkedIn }}" target="_blank" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                            {% endif %}
+                        </div>
                     </div>
                 </div>
             {% endfor %}
