@@ -5,11 +5,20 @@
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: harry.bryant@swansea.ac.uk
+  email: mailto:harry.bryant@swansea.ac.uk
 
 - title: Alec Critten
   name: Alec Critten
-  subtitle: Co-Chair
+  subtitle: Co-Chair, Swansea University
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Bassam Helal
+  name: Bassam Helal
+  subtitle: Organising Committee, Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -25,9 +34,63 @@
   topic: Topic
   description: More Info
 
-- title: TBD
-  name: TBD
-  subtitle: University of Derby
+- title: Micheal Olawale
+  name: Micheal Olawale
+  subtitle: Organising Committee, Swansea University
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Federico Marino
+  name: Federico Marino
+  subtitle: Programme Committee, University of Derby
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Philomenah Holladay
+  name: Philomenah Holladay
+  subtitle: Programme Committee, University of Sheffield
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Liu Yang
+  name: Liu Yang
+  subtitle: Programme Committee, University of Birmingham
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Jinyi Pan
+  name: Jinyi Pan
+  subtitle: Programme Committee, University of Leeds
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Kang Tan
+  name: Kang Tan
+  subtitle: Programme Committee, University of Nottingham
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Xuwen Jia
+  name: Xuwen Jia
+  subtitle: Programme Committee, University College London
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
