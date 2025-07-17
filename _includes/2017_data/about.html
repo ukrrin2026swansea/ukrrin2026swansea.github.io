@@ -20,9 +20,17 @@
                                         <h4>{{ about_data.name }}</h4>
                                     </div>
                                     <div class="timeline-heading">
-                                        <p class="text-muted">{{ about_data.info }}</p>
+                                        {% if about_data.info.first %}
+                                            {% for info_item in about_data.info %}
+                                                <p class="text-muted">{{ info_item }}</p>
+                                            {% endfor %}
+                                        {% else %}
+                                            <p class="text-muted">{{ about_data.info }}</p>
+                                        {% endif %}
                                     </div>
-                                    <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
+                                    {% if about_data.link %}
+                                        <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
+                                    {% endif %}
                                 </div>
                             </li>
                         {% endfor %}
