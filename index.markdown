@@ -15,6 +15,12 @@ description: The UKRRIN Student Led Conference at Swansea University focuses on 
   }
 </style>
 
+<style>
+  h3 {
+    color: #242f60;
+  }
+</style>
+
 <div style="text-align: center;">
   <img src="images/2026_UKRRIN_background_3.png" alt="UKRRIN Student Conference" style="max-width: 50%; height: auto;">
 </div>
