@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title:
+title: Test
 description: The UKRRIN Student Led Conference at Swansea University focuses on innovative solutions in railway technology, featuring keynote speakers, networking opportunities, and discussions on data analytics and smart transportation systems. Join us to explore the future of the train industry and enhance your skills.
 ---
 
