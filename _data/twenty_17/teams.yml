@@ -1,3 +1,4 @@
+conference_chairs:
 - title: Harry Bryant
   name: Harry Bryant
   subtitle: Co-Chair, Swansea University
@@ -16,9 +17,20 @@
   topic: Topic
   description: More Info
 
+organising_commitee:
 - title: Marek Jezinski
   name: Marek Jezinski
-  subtitle: Position
+  subtitle: Organising Committee, Swansea University
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+programme_committee:
+- title: TBD
+  name: TBD
+  subtitle: University of Derby
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
