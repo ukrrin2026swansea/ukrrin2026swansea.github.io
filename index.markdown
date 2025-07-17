@@ -32,29 +32,29 @@ description: The UKRRIN Student Led Conference at Swansea University focuses on 
 <h3>Conference Themes</h3>
 Our edition of this conference will be aligned with the Rail Technical Strategy (https://railtechnicalstrategy.co.uk/), particularly with the themes we will highlight:
 
-- **Easy to use for all**
+- **<span style="color: #242f60;">Easy to use for all</span>**
   - Customer experience
   - Accessibility
   - Applied economics for the railway
 
-- **Freight friendly**
+- **<span style="color: #242f60;">Freight friendly</span>**
   - Freight infrastructure
   - Freight operations
   - Freight sustainability
   - Access to freight
 
-- **Low emissions**
+- **<span style="color: #242f60;">Low emissions</span>**
   - Sustainability of the railway
   - Electrification and decarbonisation
   - Energy management
 
-- **Optimised train operations**
+- **<span style="color: #242f60;">Optimised train operations</span>**
   - Improving the infrastructure
   - Planning/timetabling/improving capacity
   - Improving incident recovery
   - Maximising lower use lines
 
-- **Efficient and reliable assets**
+- **<span style="color: #242f60;">Efficient and reliable assets</span>**
   - Accelerating railway development while minimising risks (testing and verification)
   - Railway resilience and security of the railway
   - Safe and efficient maintenance 
