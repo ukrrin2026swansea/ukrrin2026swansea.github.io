@@ -5,6 +5,21 @@ permalink: /travel/
 description: The UKRRIN Student Led Conference in Computer Science at Swansea University focuses on innovative solutions in railway technology, featuring keynote speakers, networking opportunities, and discussions on data analytics and smart transportation systems. Join us to explore the future of the train industry and enhance your skills.
 ---
 
+<style>
+  h3 {
+    color: #242f60;
+    font-weight: bold;
+  }
+  h1 {
+    color: #242f60;
+  }
+  h4 {
+    color: #242f60;
+  }
+</style>
+
+
+
 <p>The event will take place at <a class="urllink" href="https://www.swansea.ac.uk/computational-foundry/" rel="nofollow">The Computational Foundry</a>, 
 <a class="urllink" href="https://www.swansea.ac.uk/the-university/location/" rel="nofollow">Swansea University Bay Campus</a>, Swansea, United Kingdom.</p>
 
