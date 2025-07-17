@@ -1,12 +1,12 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Key Dates
-  info:
-    - Abstract submission deadline: June 1
-    - Notification of acceptance: July 15
-    - Final paper submission: August 10
-    - Conference dates: September 5–7
-  link: /agenda
+  info: |
+    • Abstract submission deadline: June 1  
+    • Notification of acceptance: July 15  
+    • Final paper submission: August 10  
+    • Conference dates: September 5–7
+  #link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
@@ -17,7 +17,7 @@
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: The event will be held at the Computational Foundry on Swansea University's Bay Campus
   link: /venue
 
 #- inverted: 
