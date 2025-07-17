@@ -1,6 +1,7 @@
 - title: Harry Bryant
   name: Harry Bryant
-  subtitle: Co-Chair, Swansea University
+  subtitle: Co-Chair
+  affiliation: Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -9,7 +10,8 @@
 
 - title: Alec Critten
   name: Alec Critten
-  subtitle: Co-Chair, Swansea University
+  subtitle: Co-Chair
+  affiliation: Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -18,7 +20,8 @@
 
 - title: Bassam Helal
   name: Bassam Helal
-  subtitle: Organising Committee, Swansea University
+  subtitle: Organising Committee
+  affiliation: Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -27,7 +30,8 @@
 
 - title: Marek Jezinski
   name: Marek Jezinski
-  subtitle: Organising Committee, Swansea University
+  subtitle: Organising Committee
+  affiliation: Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -36,7 +40,8 @@
 
 - title: Micheal Olawale
   name: Micheal Olawale
-  subtitle: Organising Committee, Swansea University
+  subtitle: Organising Committee
+  affiliation: Swansea University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -45,7 +50,8 @@
 
 - title: Federico Marino
   name: Federico Marino
-  subtitle: Programme Committee, University of Derby
+  subtitle: Programme Committee
+  affiliation: University of Derby
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -54,7 +60,8 @@
 
 - title: Philomenah Holladay
   name: Philomenah Holladay
-  subtitle: Programme Committee, University of Sheffield
+  subtitle: Programme Committee
+  affiliation: University of Sheffield
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -63,7 +70,8 @@
 
 - title: Liu Yang
   name: Liu Yang
-  subtitle: Programme Committee, University of Birmingham
+  subtitle: Programme Committee
+  affiliation: University of Birmingham
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -72,7 +80,8 @@
 
 - title: Jinyi Pan
   name: Jinyi Pan
-  subtitle: Programme Committee, University of Leeds
+  subtitle: Programme Committee
+  affiliation: University of Leeds
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -81,7 +90,8 @@
 
 - title: Kang Tan
   name: Kang Tan
-  subtitle: Programme Committee, University of Nottingham
+  subtitle: Programme Committee
+  affiliation: University of Nottingham
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -90,7 +100,8 @@
 
 - title: Xuwen Jia
   name: Xuwen Jia
-  subtitle: Programme Committee, University College London
+  subtitle: Programme Committee
+  affiliation: University College London
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
