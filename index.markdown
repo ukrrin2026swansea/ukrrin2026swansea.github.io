@@ -3,11 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title:
 description: The UKRRIN Student Led Conference at Swansea University focuses on innovative solutions in railway technology, featuring keynote speakers, networking opportunities, and discussions on data analytics and smart transportation systems. Join us to explore the future of the train industry and enhance your skills.
 ---
 
-<p>The UKRRIN Student Led Conference is the premier annual event for PhD students in the UK conducting research with applications in the railway industry. This conference will bring together members of the academic community and industry professionals to discuss innovative solutions and help shape the future of the railway. The conference will feature keynote speakers from leading organisations and networking opportunities, fostering collaboration and knowledge sharing among participants.</p>
+<!-- Hide the default title with CSS -->
+<style>
+  h1.page-title {
+    display: none;
+  }
+</style>
+
+<div style="text-align: center;">
+  <img src="images/2026_UKRRIN_background_3.png" alt="UKRRIN Student Conference" style="max-width: 50%; height: auto;">
+</div>
+
+<p>The UKRRIN Student Led Conference is the premier annual event for PhD students in the UK conducting research with applications in the railway industry. This conference will bring together members of the academic community and industry professionals to discuss innovative solutions and help shape the future of the railway. The conference will feature keynote speakers from leading organizations and networking opportunities, fostering collaboration and knowledge sharing among participants.</p>
 
 <p>Participants will have the chance to explore various topics, including data analytics, machine learning applications in train operations, and the future of smart transportation systems. The conference encourages students to present their research and projects, providing a platform for emerging ideas that could shape the future of the rail industry.</p>
 
