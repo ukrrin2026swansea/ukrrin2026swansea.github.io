@@ -1,3 +1,32 @@
 ---
 layout: 2016_style
 ---
+
+/* Team social icons styling */
+.team-social {
+    margin-top: 10px;
+}
+
+.team-social a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #555;
+}
+
+.team-social a:hover {
+    color: #fed136;
+}
+
+.team-contact-info {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.team-contact-info p {
+    margin-bottom: 5px;
+}
+
+.team-contact-info i {
+    margin-right: 8px;
+}
