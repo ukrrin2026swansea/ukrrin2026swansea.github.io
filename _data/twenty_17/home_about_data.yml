@@ -1,7 +1,11 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  name: Key Dates
+  info:
+    - Abstract submission deadline: June 1
+    - Notification of acceptance: July 15
+    - Final paper submission: August 10
+    - Conference dates: September 5–7
   link: /agenda
 
 - inverted: 
@@ -16,14 +20,14 @@
   info: Learn more about our location
   link: /venue
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+#- inverted: 
+#  img: icon-faq.jpeg
+#  name: FAQs
+#  info: Have a Question? Many answers can be found right here in our FAQs
+#  link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+#- inverted: timeline-inverted
+#  img: booklet-icon.png
+#  name: Event Booklet
+#  info: View or Download our event booklet
+#  link: /booklet
