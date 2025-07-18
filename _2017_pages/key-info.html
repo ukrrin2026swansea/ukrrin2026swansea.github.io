@@ -1,0 +1,35 @@
+---
+layout: 2017_default
+permalink: /key-info
+title: Key Information
+---
+
+<section id="key-info" class="black-frame about about-container about-container-top" style="padding: 40px 0;">
+  <h1 style="text-align:center; margin-bottom:40px;">Key Information</h1>
+  <div class="timeline" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px; justify-content: center; overflow-x: auto;">
+    {% for about_data in site.data.twenty_17.home_about_data %}
+      <div class="timeline-item" style="background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); width: 320px; min-width: 260px; max-width: 100%; margin-bottom: 20px; padding: 24px; display: flex; flex-direction: column; align-items: center;">
+        <div class="timeline-image" style="margin-bottom: 18px;">
+          <img class="img-circle img-responsive" src="../css/2016_style/img/{{ about_data.img }}" alt="" style="width:100px; height:100px; object-fit:cover; border-radius:50%;">
+        </div>
+        <div class="timeline-panel" style="width:100%; text-align:center;">
+          <div class="timeline-heading">
+            <h4 style="margin-bottom:12px;">{{ about_data.name }}</h4>
+          </div>
+          <div class="timeline-content">
+            {% if about_data.info.first %}
+              {% for info_item in about_data.info %}
+                <p class="text-muted" style="margin-bottom:8px;">{{ info_item }}</p>
+              {% endfor %}
+            {% else %}
+              <p class="text-muted" style="margin-bottom:8px;">{{ about_data.info }}</p>
+            {% endif %}
+          </div>
+          {% if about_data.link %}
+            <a href="{{ about_data.link }}" class="page-scroll btn btn-sm" style="margin-top:10px;">Learn More</a>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
