@@ -5,30 +5,19 @@ title: Key Dates
 ---
 
 <section id="key-info" class="black-frame about about-container about-container-top" style="padding: 40px 0;">
-  <h1 style="margin-bottom:40px;">Key Dates</h1>
-  <div class="timeline" style="display: flex; justify-content: center;">
-    {% assign first_item = site.data.twenty_17.home_about_data[0] %}
-    <div class="timeline-item" style="background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); width: 320px; padding: 24px; display: flex; flex-direction: column; align-items: center;">
-      <div class="timeline-image" style="margin-bottom: 18px;">
-        <img class="img-circle img-responsive" src="../css/2016_style/img/{{ first_item.img }}" alt="" style="width:100px; height:100px; object-fit:cover; border-radius:50%;">
-      </div>
-      <div class="timeline-panel" style="width:100%; text-align:center;">
-        <div class="timeline-heading">
-          <h4 style="margin-bottom:12px;">{{ first_item.name }}</h4>
-        </div>
-        <div class="timeline-content">
-          {% if first_item.info.first %}
-            {% for info_item in first_item.info %}
-              <p class="text-muted" style="margin-bottom:8px;">{{ info_item }}</p>
-            {% endfor %}
-          {% else %}
-            <p class="text-muted" style="margin-bottom:8px;">{{ first_item.info }}</p>
-          {% endif %}
-        </div>
-        {% if first_item.link %}
-          <a href="{{ first_item.link }}" class="page-scroll btn btn-sm" style="margin-top:10px;">Learn More</a>
-        {% endif %}
-      </div>
+  <div class="timeline-item" style="background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); max-width: 720px; margin: 0 auto; padding: 40px;">
+    <div class="timeline-image" style="margin-bottom: 24px; text-align: center;">
+      <img class="img-circle img-responsive" src="../css/2016_style/img/icon-agenda.jpeg" alt="Key Dates Icon" style="width:100px; height:100px; object-fit:cover; border-radius:50%;">
+    </div>
+    <div class="timeline-panel" style="text-align: left;">
+      <h2 style="margin-bottom:24px; text-align:center;">Key Dates</h2>
+      <ul style="list-style-type: disc; padding-left: 20px;">
+        <li>Abstract submission opens: August 2025</li>
+        <li>Abstract submission deadline: 9th October 2025</li>
+        <li>Notification of acceptance: 1st November 2025</li>
+        <li>Presentation/poster submission: 10th December 2025</li>
+        <li>Conference dates: 7th–9th January 2026</li>
+      </ul>
     </div>
   </div>
 </section>
