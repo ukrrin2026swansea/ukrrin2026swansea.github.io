@@ -15,6 +15,18 @@
   info: The event will be held at the Computational Foundry on Swansea University's Bay Campus
   link: /venue
 
+- inverted: themes
+  img: icon-themes.png
+  name: Conference Themes
+  info: The event will be held at the Computational Foundry on Swansea University's Bay Campus
+  link: /themes
+
+- inverted: speakers
+  img: icon-themes.png
+  name: Speakers
+  info: The event will be held at the Computational Foundry on Swansea University's Bay Campus
+  link: /themes
+
 - inverted: timeline-inverted organisers
   img: icon-team.jpeg
   name: Organisers & Committee
