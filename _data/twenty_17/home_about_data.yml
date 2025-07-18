@@ -1,4 +1,4 @@
-- inverted: timeline-inverted
+- inverted: timeline-inverted agenda
   img: icon-agenda.jpeg
   name: Key Dates
   info:
@@ -9,17 +9,18 @@
     - "Conference dates: 7th–9th January 2026"
   #link: /agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: The Conference Organisers and Program Committee
-  link: /team
-
-- inverted: timeline-inverted
+- inverted: venue
   img: icon-venue.jpeg
   name: Venue
   info: The event will be held at the Computational Foundry on Swansea University's Bay Campus
   link: /venue
+
+- inverted: timeline-inverted organisers
+  img: icon-team.jpeg
+  name: Organisers & Committee
+  info: The Conference Organisers and Program Committee
+  link: /organisers
+
 
 #- inverted: 
 #  img: icon-faq.jpeg
