@@ -18,10 +18,13 @@
                             <p>{{ team.description }}</p>
                             <div class="team-contact-info">
                                 {% if team.email %}
-                                <p><i class="fa fa-envelope"></i> <a href="{{ team.email }}">Email</a></p>
+                                    <p><i class="fa fa-envelope"></i> <a href="{{ team.email }}">Email</a></p>
                                 {% endif %}
                                 {% if team.linkedIn %}
-                                <p><i class="fa fa-linkedin"></i> <a href="{{ team.linkedIn }}" target="_blank">LinkedIn Profile</a></p>
+                                    <p><i class="fa fa-linkedin"></i> <a href="{{ team.linkedIn }}" target="_blank">LinkedIn Profile</a></p>
+                                {% endif %}
+                                {% if team.social == "none" %}
+                                <a href="#" target="_blank" title="LinkedIn" style="visibility: hidden;"><i class="fa fa-linkedin"></i></a>
                                 {% endif %}
                             </div>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>

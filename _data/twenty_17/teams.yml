@@ -99,6 +99,8 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  social: none
+  # !!! IMPORTANT: Please add "social: none" field if no social links are available, following the example above !!!
 
 - title: Kang Tan
   name: Kang Tan
@@ -109,6 +111,7 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  social: none
 
 - title: Xuwen Jia
   name: Xuwen Jia
@@ -119,3 +122,4 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  social: none

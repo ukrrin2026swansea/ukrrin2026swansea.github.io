@@ -22,6 +22,9 @@
                             {% if team.linkedIn %}
                             <a href="{{ team.linkedIn }}" target="_blank" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
                             {% endif %}
+                            {% if team.social == "none" %}
+                            <a href="#" target="_blank" title="LinkedIn" style="visibility: hidden;"><i class="fa fa-linkedin"></i></a>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
