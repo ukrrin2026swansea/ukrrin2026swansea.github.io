@@ -1,26 +1,50 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: George Bearfield
+  name: George Bearfield
+  subtitle: Cyber Security of Railways<br><br><br>
+  img: GeorgeBearfield.jpg
+  thumbnail: GeorgeBearfield.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  affiliation: University of Huddersfield / Rock Group
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Yue Hou
+  name: Yue Hou
+  subtitle: Using Large Language Model to predict the rail stress development of High-speed Railway
+  img: YueHou.jpg
+  thumbnail: YueHou.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  affiliation: Swansea University
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Siemens Mobility
+  name: Siemens Mobility
+  subtitle: Advancing Railway Signalling Systems through the Application of Formal Methods <br><br>
+  img: Siemens.png
+  thumbnail: Siemens.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  affiliation: Siemens Mobility
+
+
+- title: Luisa Moisio
+  name: Luisa Moisio
+  subtitle: "Driving the Future of Rail: Safety, Sustainability, and Digital Innovation with RSSB"
+  img: LuisaMoisio.png
+  thumbnail: LuisaMoisio.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  affiliation: Rail Safety and Standards Board
+
+# - title: Alma Rahat
+#   name: Alma Rahat
+#   subtitle: Applying Optimisation Techniques in Railway Timetabling <br><br>
+#   img: AlmaRahat.jpg
+#   thumbnail: AlmaRahat.jpg
+#   alt: Picture of TBD
+#   topic: Topic
+#   description: More Info
+#   affiliation: Swansea University
