@@ -1,11 +1,9 @@
 - title: George Bearfield
   name: George Bearfield
-  subtitle: Cyber Security of Railways<br><br><br>
+  subtitle: Cyber Security of Railways<br><br>
   img: GeorgeBearfield.jpg
   thumbnail: GeorgeBearfield.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Picture of George Bearfield
   affiliation: University of Huddersfield / Rock Group
 
 - title: Yue Hou
@@ -13,19 +11,15 @@
   subtitle: Using Large Language Models to predict the rail stress development of High-speed Railway
   img: YueHou.jpg
   thumbnail: YueHou.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Picture of Yue Hou
   affiliation: Swansea University
 
 - title: Siemens Mobility
   name: Siemens Mobility
-  subtitle: Advancing Railway Signalling Systems through the Application of Formal Methods <br><br>
+  subtitle: Advancing Railway Signalling Systems through the Application of Formal Methods 
   img: Siemens.png
   thumbnail: Siemens.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Picture of Siemens Mobility Logo
   affiliation: Siemens Mobility
 
 
@@ -34,14 +28,19 @@
   subtitle: "Driving the Future of Rail: Safety, Sustainability, and Digital Innovation with RSSB"
   img: LuisaMoisio.png
   thumbnail: LuisaMoisio.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
   affiliation: Rail Safety and Standards Board
+
+- title: Jacqueline Starr
+  name: Jacqueline Starr
+  subtitle: "Improving the Railway Experience<br><br>"
+  img: JacquelineStarr.jpg
+  thumbnail: JacquelineStarr.jpg
+  alt: Picture of Jacqueline Starr
+  affiliation: Rail Delivery Group
 
 # - title: Alma Rahat
 #   name: Alma Rahat
-#   subtitle: Applying Optimisation Techniques in Railway Timetabling <br><br>
+#   subtitle: Applying Optimisation Techniques in Railway Timetabling 
 #   img: AlmaRahat.jpg
 #   thumbnail: AlmaRahat.jpg
 #   alt: Picture of TBD

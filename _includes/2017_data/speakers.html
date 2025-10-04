@@ -11,14 +11,14 @@
                     <br><br>More details coming soon</h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="speakers-flex-wrapper">
             {% for post in site.data.twenty_17.speakers %}
-                <div class="col-md-4 col-sm-6 speakers-item">
+                <div class="speakers-item">
                     <img src="../css/2017_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                        <p class="text-muted">{{ post.affiliation }}</p>
+                        <p class="text-muted subtitle">{{ post.subtitle }}</p>
+                        <p class="text-muted subtitle">{{ post.affiliation }}</p>
                         <!-- <div class="team-social">
                             {% if post.email %}
                             <a href="{{ team.email }}" title="Email"><i class="fa fa-envelope"></i></a>

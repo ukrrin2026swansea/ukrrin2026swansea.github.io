@@ -477,7 +477,7 @@ section h3.section-subheading {
     padding-top: 25px;
     padding-bottom: 5px;
     max-width: 400px;
-    min-height: 100px;
+    min-height: 180px;
     text-align: center;
     background-color: #fff;
 }
@@ -499,6 +499,47 @@ section h3.section-subheading {
 #speakers * {
     z-index: 2;
 }
+
+/* I've added manual non-bootstrap grid system, if there's too much text in any tile,
+increase the min-height below & in '#speakers .speakers-item .speakers-caption' above - Marek */
+
+#speakers .speakers-flex-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.subtitle {
+    font-size: 100%;
+}
+
+#speakers .speakers-flex-wrapper .speakers-item {
+    flex: 0 0 calc(33.333% - 15px);
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    #speakers .speakers-flex-wrapper .speakers-item {
+        flex: 0 0 calc(50% - 15px);
+    }
+    #speakers .speakers-item .speakers-caption {
+        min-height: 200px;
+    }
+}
+
+@media (max-width: 480px) {
+    #speakers .speakers-flex-wrapper .speakers-item {
+        flex: 0 0 calc(50% - 15px);
+    }
+    #speakers .speakers-item .speakers-caption {
+        min-height: 200px;
+    }
+    .subtitle {
+        font-size: 80%;
+    }
+}
+
 
 @media(min-width:767px) {
     #speakers .speakers-item {
