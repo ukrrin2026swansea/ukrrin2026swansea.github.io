@@ -1,4 +1,4 @@
-mtitle: UKRRIN 2026 Student Conference
+title: UKRRIN 2026 Student Conference
 description: The UKRRIN Student Led Conference is annual event for PhD students in the UK conducting research with applications in the railway industry. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ukrrin2026swansea.github.io" # the base hostname & protocol for your site
