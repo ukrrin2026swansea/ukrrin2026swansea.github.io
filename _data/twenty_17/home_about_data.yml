@@ -2,9 +2,9 @@
   img: icon-agenda.jpeg
   name: Key Dates
   info:
-    - "Abstract submission deadline: <del>31st October 2025</del> <b>7th November 2025</b>"
-    - "Notification of acceptance: <del>12th November 2025</del> <b>17th November 2025</b>"
-    - "Presentation/poster submission: <del>10th December 2025</del> <b>19th December 2025</b>"
+    - "Abstract submission deadline: <del>31st October 2025</del> <br><b>7th November 2025</b>"
+    - "Notification of acceptance: <del>12th November 2025</del> <br><b>17th November 2025</b>"
+    - "Presentation/poster submission: <del>10th December 2025</del> <br><b>19th December 2025</b>"
     - "Conference dates: 7th–9th January 2026"
   #link: /agenda
 
