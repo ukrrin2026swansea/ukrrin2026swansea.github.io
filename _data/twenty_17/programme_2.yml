@@ -1,5 +1,22 @@
-- time: Morning
-  info: "Contributed Talks<br>Coffee Break & Posters<br>George Bearfield (University of Huddersfield / Rock Group)"
 
-- time: Afternoon
-  info: "Lunch & Posters<br>GCRE Excursion<br>Conference Dinner"
+# Day 2 – Thursday 8th
+
+- block: Morning
+  time: "09:00–10:40"
+  title: "Contributed Talks ×4"
+
+- block: Morning
+  time: "10:40–11:00"
+  title: "Coffee Break & Posters"
+
+- block: Morning
+  time: "11:00–12:00"
+  title: "George Bearfield (University of Huddersfield / Rock Group)"
+
+- block: Afternoon
+  time: "12:00–13:00"
+  title: "Lunch & Posters"
+
+- block: Afternoon
+  time: "13:00–"
+  title: "GCRE Excursion"
