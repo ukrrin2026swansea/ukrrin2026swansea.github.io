@@ -14,14 +14,36 @@ published: true
     <div class="black-frame about about-container about-container-top about-container-bottom">
       <h1>{{ page.title }}</h1>
 
-        <h2>Day 1 - Wednesday 7th</h2>
+        
+        <h2>Day 1 – Wednesday 7th</h2>
+
         <table class="agenda">
-            {% for agenda in site.data.twenty_17.programme_1 %}
+        <thead>
+            <tr>
+            <th style="width:15%;">&nbsp;</th>
+            <th style="width:20%;">Time</th>
+            <th>Session</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign day = site.data.twenty_17.programme_1 %}
+            {% assign blocks = "Morning,Afternoon" | split: "," %}
+
+            {% for b in blocks %}
+            {% assign items = day | where: "block", b %}
+            {% if items.size > 0 %}
+                {% for item in items %}
                 <tr>
-                    <td style="width:30%; font-size: 120%;"><b>{{ agenda.time }}</b></td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
+                    {% if forloop.first %}
+                    <td class="block-col" rowspan="{{ items.size }}"><strong>{{ b }}</strong></td>
+                    {% endif %}
+                    <td style="font-size: 110%;"><b>{{ item.time }}</b></td>
+                    <td>{{ item.title }}</td>
+                </tr>
+                {% endfor %}
+            {% endif %}
             {% endfor %}
+        </tbody>
         </table>
 
         <h2>Day 2 - Thursday 8th</h2>
