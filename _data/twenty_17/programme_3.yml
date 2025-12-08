@@ -1,5 +1,22 @@
-- time: Morning
-  info: "Contributed Talks<br>Coffee Break & Posters<br>Jacqueline Starr (Rail Delivery Group)"
 
-- time: Afternoon
-  info: "Closing (Conference finishes at 1pm)"
+# Day 3 – Friday 9th
+
+- block: Morning
+  time: "09:00–11:20"
+  title: "Contributed Talks"
+
+- block: Morning
+  time: "11:20–11:40"
+  title: "RAIB"
+
+- block: Morning
+  time: "11:40–12:00"
+  title: "Coffee Break & Posters"
+
+- block: Afternoon
+  time: "12:00–13:00"
+  title: "Jacqueline Starr (Rail Delivery Group)"
+
+- block: Afternoon
+  time: "13:00–"
+  title: "Closing (lunch not provided)"
