@@ -1,7 +1,7 @@
 ---
 layout: 2017_default
 permalink: /programme
-title: Prelimary Programme
+title: Programme
 published: true
 ---
 
@@ -198,5 +198,27 @@ published: true
             {% endif %}
         </tbody>
         </table>
+
+        <h2>Contributed Talks 4: Infrastructure, Maintenance & Monitoring</h2>
+        <table class="agenda">
+        <thead>
+            <tr>
+            <th style="width:30%;">Name</th>
+            <th>Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign talks4 = site.data.twenty_17.ct4 %}
+            {% assign items = talks4 %}
+            {% if items.size > 0 %}
+                {% for item in items %}
+                <tr>
+                    <td class="name"><b>{{ item.name }}</b></td>
+                    <td class="title">{{ item.title }}</td>
+                </tr>
+                {% endfor %}
+            {% endif %}
+        </tbody>
+        </table>    
 
     </div>
