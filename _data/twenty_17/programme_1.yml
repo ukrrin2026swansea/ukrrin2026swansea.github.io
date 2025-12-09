@@ -18,8 +18,12 @@
   title: "Coffee Break & Posters"
 
 - block: Morning
-  time: "11:10–12:50"
+  time: "11:10–12:30"
   title: "Contributed Talks 1"
+
+- block: Afternoon
+  time: "12:30–12:50"
+  title: "The PWI"
 
 - block: Afternoon
   time: "12:50–13:50"
@@ -30,12 +34,8 @@
   title: "Luisa Moisio (RSSB)"
 
 - block: Afternoon
-  time: "15:00–16:20"
+  time: "15:00–16:40"
   title: "Contributed Talks 2"
-
-- block: Afternoon
-  time: "16:20–16:40"
-  title: "The PWI"
 
 - block: Afternoon
   time: "16:40–17:00"
