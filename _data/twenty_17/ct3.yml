@@ -1,13 +1,13 @@
 # _data/twenty_17/ct3.yml
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "George Brooks"
+  title: "Demand Guided Railway Timetable Optimization"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Christopher Davis"
+  title: "Development of a novel, open-source micro transport simulator: pytms & web-tms"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Shobin John"
+  title: "Hybrid AI–Knowledge Framework for High-Integrity Anomaly Detection in Remote Monitoring"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Yuxuan Guo"
+  title: "Analysis of diesel passenger train idling times at station: the case of Dublin Heston station"

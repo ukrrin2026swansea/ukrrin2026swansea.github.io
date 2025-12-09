@@ -137,7 +137,7 @@ published: true
         <table class="agenda">
         <thead>
             <tr>
-            <th style="width:20%;">Name</th>
+            <th style="width:30%;">Name</th>
             <th>Title</th>
             </tr>
         </thead>
@@ -159,13 +159,35 @@ published: true
         <table class="agenda">
         <thead>
             <tr>
-            <th style="width:20%;">Name</th>
+            <th style="width:30%;">Name</th>
             <th>Title</th>
             </tr>
         </thead>
         <tbody>
-            {% assign talks2 = site.data.twenty_17.ct1 %}
+            {% assign talks2 = site.data.twenty_17.ct2 %}
             {% assign items = talks2 %}
+            {% if items.size > 0 %}
+                {% for item in items %}
+                <tr>
+                    <td class="name"><b>{{ item.name }}</b></td>
+                    <td class="title">{{ item.title }}</td>
+                </tr>
+                {% endfor %}
+            {% endif %}
+        </tbody>
+        </table>
+
+        <h2>Contributed Talks 3: Operations & Simulations</h2>
+        <table class="agenda">
+        <thead>
+            <tr>
+            <th style="width:30%;">Name</th>
+            <th>Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign talks3 = site.data.twenty_17.ct3 %}
+            {% assign items = talks3 %}
             {% if items.size > 0 %}
                 {% for item in items %}
                 <tr>
