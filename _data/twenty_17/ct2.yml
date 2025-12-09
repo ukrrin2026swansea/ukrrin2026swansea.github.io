@@ -1,13 +1,13 @@
 # _data/twenty_17/ct2.yml
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Jose Santos"
+  title: "Offline Iterative Hybrid Testing of Pantograph-Catenary Dynamics"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Mishaal Sanad"
+  title: "Influences of Pantograph Base Pneumatic Actuator to the Interaction Dynamics under Large-Gradient Catenary Wires"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Adam McGirr"
+  title: "Speed Control of a Freight Train Based on an Inverse Simulation Approach"
 
-- name: "09:00–11:20"
-  title: "Contributed Talks 4"
+- name: "Liu Yang"
+  title: "Coordinated Energy Scheduling of Railway Stations Considering EV Flexibility and Regenerative Braking for Grid-Railway Co-Benefits"
