@@ -142,11 +142,7 @@ published: true
             </tr>
         </thead>
         <tbody>
-            {% assign day3 = site.data.twenty_17.ct1 %}
-            {% assign blocks = "Morning,Afternoon" | split: "," %}
-
-            {% for b in blocks %}
-            {% assign items = day3 | where: "block", b %}
+            {% assign talks1 = site.data.twenty_17.ct1 %}
             {% if items.size > 0 %}
                 {% for item in items %}
                 <tr>
@@ -158,7 +154,6 @@ published: true
                 </tr>
                 {% endfor %}
             {% endif %}
-            {% endfor %}
         </tbody>
         </table>
 
