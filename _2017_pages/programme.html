@@ -155,4 +155,26 @@ published: true
         </tbody>
         </table>
 
+        <h2>Contributed Talks 2: Catenary Dynamics & Energy</h2>
+        <table class="agenda">
+        <thead>
+            <tr>
+            <th style="width:20%;">Name</th>
+            <th>Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign talks2 = site.data.twenty_17.ct1 %}
+            {% assign items = talks2 %}
+            {% if items.size > 0 %}
+                {% for item in items %}
+                <tr>
+                    <td class="name"><b>{{ item.name }}</b></td>
+                    <td class="title">{{ item.title }}</td>
+                </tr>
+                {% endfor %}
+            {% endif %}
+        </tbody>
+        </table>
+
     </div>
