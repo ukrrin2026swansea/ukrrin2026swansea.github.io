@@ -7,7 +7,7 @@
 
 - block: Morning
   time: "10:40–11:00"
-  title: "Coffee Break & Posters"
+  title: "Coffee Break & Poster Session"
 
 - block: Morning
   time: "11:00–12:00"
@@ -15,7 +15,7 @@
 
 - block: Afternoon
   time: "12:00–13:00"
-  title: "Lunch & Posters"
+  title: "Lunch & Poster Session"
 
 - block: Afternoon
   time: "13:00–"
