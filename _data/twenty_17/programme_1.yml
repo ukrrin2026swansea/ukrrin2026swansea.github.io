@@ -11,7 +11,7 @@
 
 - block: Morning
   time: "09:45–10:45"
-  title: "Siemens Mobility"
+  title: "Sean McCabe - Head of Software at Siemens Mobility <br> Talk title to be confirmed"
 
 - block: Morning
   time: "10:45–11:10"
@@ -31,7 +31,7 @@
 
 - block: Afternoon
   time: "13:50–14:50"
-  title: "Luisa Moisio (RSSB)"
+  title: "Luisa Moisio - Director of Research at the Rail Safety and Standards Board (RSSB) <br> Collaboration and passion to drive rail innovation forward"
 
 - block: Afternoon
   time: "15:00–16:40"
@@ -43,4 +43,4 @@
 
 - block: Afternoon
   time: "17:00–18:00"
-  title: "Yue Hou (Swansea University)"
+  title: "Yue Hou -Swansea University <br> Using Large Language Models to predict the rail stress development of High-speed Railway"
