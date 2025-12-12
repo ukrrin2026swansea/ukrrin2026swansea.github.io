@@ -20,7 +20,7 @@
   img: SeanMcCabe.JPG
   thumbnail: SeanMcCabe.JPG
   alt: Picture of Sean McCabe
-  affiliation: Siemens Mobility
+  affiliation: Head of Software at Siemens Mobility
 
 
 - title: Luisa Moisio
@@ -28,7 +28,7 @@
   subtitle: "Collaboration and commitment to drive rail innovation forward"
   img: LuisaMoisio.png
   thumbnail: LuisaMoisio.png
-  affiliation: Rail Safety and Standards Board
+  affiliation: Director of Research at the Rail Safety and Standards Board (RSSB)
 
 - title: Jacqueline Starr
   name: Jacqueline Starr
@@ -36,7 +36,7 @@
   img: JacquelineStarr.jpg
   thumbnail: JacquelineStarr.jpg
   alt: Picture of Jacqueline Starr
-  affiliation: Rail Delivery Group
+  affiliation: CEO of the Rail Delivery Group
 
 # - title: Alma Rahat
 #   name: Alma Rahat
