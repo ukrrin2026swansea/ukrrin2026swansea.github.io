@@ -18,11 +18,11 @@
   title: "Sean McCabe - Head of Software at Siemens Mobility <br> Railway Decarbonisation"
 
 - block: Morning
-  time: "10:55–11:10"
+  time: "10:55–11:15"
   title: "Coffee Break"
 
 - block: Morning
-  time: "11:10–12:30"
+  time: "11:15–12:30"
   title: "Contributed Talks 1"
 
 - block: Afternoon
@@ -38,7 +38,11 @@
   title: "Luisa Moisio - Director of Research at the Rail Safety and Standards Board (RSSB) <br> Collaboration and passion to drive rail innovation forward"
 
 - block: Afternoon
-  time: "15:00–16:40"
+  time: "14:50–15:15"
+  title: "Coffee Break"
+
+- block: Afternoon
+  time: "15:15–16:40"
   title: "Contributed Talks 2"
 
 - block: Afternoon
