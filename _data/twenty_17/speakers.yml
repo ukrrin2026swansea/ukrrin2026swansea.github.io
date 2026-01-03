@@ -1,10 +1,11 @@
+
 - title: George Bearfield
   name: George Bearfield
   subtitle: Cyber Security of Railways<br><br>
   img: GeorgeBearfield.jpg
   thumbnail: GeorgeBearfield.jpg
   alt: Picture of George Bearfield
-  affiliation: Visiting  Professor of Railway System Safety at the University of Huddersfield Institute of Rail Research
+  affiliation: Visiting Professor of Railway System Safety<br>at the University of Huddersfield<br>Institute of Rail Research
 
 - title: Yue Hou
   name: Yue Hou
@@ -12,7 +13,7 @@
   img: YueHou.jpg
   thumbnail: YueHou.jpg
   alt: Picture of Yue Hou
-  affiliation: Senior Lecturer, Department of Civil Engineering,<br>Swansea University
+  affiliation: Senior Lecturer<br>Department of Civil Engineering<br>Swansea University
 
 - title: Sean McCabe
   name: Sean McCabe
@@ -22,13 +23,12 @@
   alt: Picture of Sean McCabe
   affiliation: Head of Software<br>at Siemens Mobility<br>
 
-
 - title: Luisa Moisio
   name: Luisa Moisio
   subtitle: "Collaboration and commitment to drive rail innovation forward"
   img: LuisaMoisio.png
   thumbnail: LuisaMoisio.png
-  affiliation: Director of Research at the Rail Safety and Standards Board (RSSB)
+  affiliation: Director of Research<br>Rail Safety and Standards Board<br>(RSSB)
 
 - title: Jacqueline Starr
   name: Jacqueline Starr
@@ -36,14 +36,4 @@
   img: JacquelineStarr.jpg
   thumbnail: JacquelineStarr.jpg
   alt: Picture of Jacqueline Starr
-  affiliation: CEO of the<br>Rail Delivery Group<br>
-
-# - title: Alma Rahat
-#   name: Alma Rahat
-#   subtitle: Applying Optimisation Techniques in Railway Timetabling 
-#   img: AlmaRahat.jpg
-#   thumbnail: AlmaRahat.jpg
-#   alt: Picture of TBD
-#   topic: Topic
-#   description: More Info
-#   affiliation: Swansea University
+  affiliation: CEO<br>Rail Delivery Group<br>
