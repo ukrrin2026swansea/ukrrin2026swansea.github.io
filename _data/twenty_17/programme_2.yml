@@ -2,21 +2,33 @@
 # Day 2 – Thursday 8th
 
 - block: Morning
-  time: "09:00–10:30"
+  time: "09:30–11:00"
   title: "Contributed Talks 3"
 
 - block: Morning
-  time: "10:30–11:00"
+  time: "11:00–11:30"
   title: "Coffee Break & Poster Session"
 
 - block: Morning
-  time: "11:00–12:00"
+  time: "11:30–12:30"
   title: "George Bearfield - Visiting  Professor of Railway System Safety at the University of Huddersfield Institute of Rail Research <br> Cyber Security of Railways"
 
 - block: Afternoon
-  time: "12:00–13:00"
+  time: "12:30–13:30"
   title: "Lunch & Poster Session"
 
 - block: Afternoon
-  time: "13:00–"
-  title: "GCRE Excursion"
+  time: "13:30–14:30"
+  title: "GCRE Project"
+
+- block: Afternoon
+  time: "14:30–15:00"
+  title: "Coffee Break"  
+
+- block: Afternoon
+  time: "15:00–16:00"
+  title: "Yue Hou - Senior Lecturer, Department of Civil Engineering, Swansea University <br> Using Large Language Models to predict the rail stress development of High-speed Railways"
+
+- block: Afternoon
+  time: "16:00–16:30"
+  title: "Markus Roggenbach - Verifying the Safety of Railways"
