@@ -84,7 +84,7 @@ published: true
         </thead>
         <tbody>
             {% assign day2 = site.data.twenty_17.programme_2 %}
-            {% assign blocks = "Morning,Afternoon" | split: "," %}
+            {% assign blocks = "Morning,Afternoon,Evening" | split: "," %}
 
             {% for b in blocks %}
             {% assign items = day2 | where: "block", b %}
